@@ -1,0 +1,16 @@
+# Pandas
+pandas
+
+# Geo (modelo comparativo)
+shapely
+
+# Scikit
+scikit-learn
+
+# Jupyter
+jupyter
+matplotlib
+
+#TDA
+sklearn-tda
+umap-learn
